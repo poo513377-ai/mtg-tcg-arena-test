@@ -1,0 +1,344 @@
+{
+  "basic-plains": {
+    "id": "basic-plains",
+    "name": "Plains",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Basic Land — Plains",
+    "Color identity": [
+      "W"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Plains"
+        },
+        "type": "Land",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/c/4/c453d1ea-9a42-4ccb-9391-eec122025647.jpg?1783920467"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  },
+  "basic-island": {
+    "id": "basic-island",
+    "name": "Island",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Basic Land — Island",
+    "Color identity": [
+      "U"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Island"
+        },
+        "type": "Land",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/1/d/1d018af9-dd14-46fa-8fd5-226defc9698f.jpg?1783920467"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  },
+  "basic-swamp": {
+    "id": "basic-swamp",
+    "name": "Swamp",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Basic Land — Swamp",
+    "Color identity": [
+      "B"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Swamp"
+        },
+        "type": "Land",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/4/6/46a6375e-9477-4871-8a15-02439f3f6f34.jpg?1783920467"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  },
+  "basic-mountain": {
+    "id": "basic-mountain",
+    "name": "Mountain",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Basic Land — Mountain",
+    "Color identity": [
+      "R"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mountain"
+        },
+        "type": "Land",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1783920467"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  },
+  "basic-forest": {
+    "id": "basic-forest",
+    "name": "Forest",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Basic Land — Forest",
+    "Color identity": [
+      "G"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Forest"
+        },
+        "type": "Land",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.jpg?1783920466"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  },
+  "custom-bolt": {
+    "id": "custom-bolt",
+    "name": "Super Lightning Bolt",
+    "type": "Instant",
+    "cost": 1,
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Instant",
+    "Color identity": [
+      "R"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Super Lightning Bolt"
+        },
+        "type": "Instant",
+        "cost": 1,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/7/7/77c6fa74-5543-42ac-ac92-ae795a1c1f9f.jpg"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  },
+  "custom-sol-ring": {
+    "id": "custom-sol-ring",
+    "name": "My Sol Ring",
+    "type": "Artifact",
+    "cost": 1,
+    "Colors": [],
+    "Card type": "Artifact",
+    "Color identity": [],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "My Sol Ring"
+        },
+        "type": "Artifact",
+        "cost": 1,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/8/6/86bf43b1-8d4e-4759-bb2d-0b2e03ba7012.jpg"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  },
+  "custom-dragon": {
+    "id": "custom-dragon",
+    "name": "Custom Shivan Dragon",
+    "type": "Creature",
+    "cost": 6,
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Creature — Dragon",
+    "Color identity": [
+      "R"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Custom Shivan Dragon"
+        },
+        "type": "Creature",
+        "cost": 6,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/a/4/a471b306-4941-4e46-a0cb-d92895c16f8a.jpg"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    },
+    "power": 5,
+    "toughness": 5
+  },
+  "custom-angel": {
+    "id": "custom-angel",
+    "name": "Custom Serra Angel",
+    "type": "Creature",
+    "cost": 5,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Angel",
+    "Color identity": [
+      "W"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Custom Serra Angel"
+        },
+        "type": "Creature",
+        "cost": 5,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/1/f/1fc83d6d-6b05-46d4-9e30-3ef9b55d6de3.jpg"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    },
+    "power": 4,
+    "toughness": 4
+  },
+  "custom-dual": {
+    "id": "custom-dual",
+    "name": "My Custom Dual Land",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Land",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "isHorizontal": false,
+    "face": {
+      "front": {
+        "name": {
+          "name": "My Custom Dual Land"
+        },
+        "type": "Land",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://cards.scryfall.io/normal/front/0/1/01ce490a-22bf-4a9e-b5d5-1f2e5e5e5e5e.jpg"
+      }
+    },
+    "_legal": {
+      "EDH": true,
+      "MD": true,
+      "VI": true,
+      "ST": true,
+      "PA": true,
+      "LG": true,
+      "PI": true
+    }
+  }
+}
